@@ -1,4 +1,45 @@
-*body {
-    background-color: black;
-    font-size: 70%;
+body {
+    background-color: green;
+    font-size: 300%;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+container {
+    font: italic;
+    border-style: groove;
+    border-radius: 6%;
+    border-color: black;
+}
+
+container2 {
+    font: italic;
+    border-radius: 6%;
+    border-color: black;
+}
+
+p.container {
+    border-style: outset;
+    border-width: thick;
+    border-color:  yellow blue purple;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right:170px;
+    margin-left: 170px;
+    background-color: blueviolet;
+}
+
+p.container2 {
+    border-style: outset;
+    border-width: thick;
+    border-color: yellow blue purple;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right:170px;
+    margin-left: 170px;
+    background-color: blueviolet;
+
 }
