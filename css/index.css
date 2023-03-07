@@ -21,25 +21,15 @@ container2 {
     border-color: black;
 }
 
-p.container {
-    border-style: outset;
-    border-width: thick;
-    border-color:  yellow blue purple;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right:170px;
-    margin-left: 170px;
-    background-color: blueviolet;
+input {
+    height: 40px;
+    width: 300px;
+    padding: 1.2%;
+    margin-bottom: 30px;
+    border: 2px solid black;
+    outline: dotted red;
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
 }
 
-p.container2 {
-    border-style: outset;
-    border-width: thick;
-    border-color: yellow blue purple;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right:170px;
-    margin-left: 170px;
-    background-color: blueviolet;
-
-}
